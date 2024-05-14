@@ -1,0 +1,1 @@
+{"schizophrenia": "0.5", "bipolar": "0.4", "eating": "0.6", "anxiety": "0.8", "drugUse": "0.2", "depressive": "0.4", "alcoholUse": "0.3", "regressionMethod": "RandomForestRegressor"}
