@@ -5,7 +5,7 @@ Project MANAS employs a cutting-edge machine learning model to predict Disabilit
 
 Download and open the folder.
 In terminal:
-1. Open Manas_main in Live Server
+1. Open Manas_main by index.html in Live Server
 2. Open MANAS_React by
 3.                     a. npm install
 4.                     b. npm run dev
