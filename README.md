@@ -11,3 +11,6 @@ In terminal:
 4.                     b. npm run dev
 5. Open MANAS_Model_API by main.py by
 6.                     uvicorn main:app --reload --port 5000
+
+If step-1 don't work, i.e., if index.html dont't load in browser, then one of the option is,
+Go to Extension > Live Server > Settings > Use Local IP (check it)
