@@ -6,10 +6,10 @@ Project MANAS employs a cutting-edge machine learning model to predict Disabilit
 Download and open the folder.
 In terminal:
 1. Open MANAS_React and in terminal, run commands:
-2.                     a. npm install
-3.                     b. npm run dev
+                       `npm install`
+                       `npm run dev`
 4. Open MANAS_Model_API and in terminal, run command:
-5.                     uvicorn main:app --reload --port 5000
+                     `uvicorn main:app --reload --port 5000`
 6. Open Manas_main > index.html in Live Server.
 7. Click on Analyse.
 8. Fill the relevant values.
